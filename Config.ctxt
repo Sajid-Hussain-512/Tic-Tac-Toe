@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Config
+comment1.params=choice
+comment1.target=Config(int)
+comment2.params=player
+comment2.target=void\ addPlayer(java.util.List)
+numComments=3

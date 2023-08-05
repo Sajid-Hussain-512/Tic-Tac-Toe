@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=name
+comment1.target=void\ setName(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=avatar
+comment3.target=void\ setAvatar(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getAvatar()
+comment5.params=name\ avatar
+comment5.target=Player(java.lang.String,\ java.lang.String)
+numComments=6

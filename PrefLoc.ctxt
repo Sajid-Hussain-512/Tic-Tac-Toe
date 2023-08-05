@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PrefLoc
+comment1.params=b\ myAvatar\ turns\ availablePos\ level
+comment1.target=java.lang.String\ gimmeloc(Board,\ java.lang.String,\ int,\ java.util.List,\ int)
+comment1.text=\r\n\ Find\ A\ Location\ Based\ On\ Level\r\n
+comment2.params=b\ myAvatar
+comment2.target=java.lang.String\ mostPref(Board,\ java.lang.String)
+comment2.text=\r\n\ Find\ the\ most\ Preferred\ Location\r\n
+numComments=3

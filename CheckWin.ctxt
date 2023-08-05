@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CheckWin
+comment1.params=cState\ P
+comment1.target=java.util.List\ winCheck(java.util.List,\ java.util.List)
+comment2.params=row
+comment2.target=boolean\ checkRows(java.util.List)
+comment3.params=cState\ col
+comment3.target=boolean\ checkCols(java.util.List,\ int)
+numComments=4

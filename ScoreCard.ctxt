@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ScoreCard
+comment1.params=won\ lost\ level
+comment1.target=void\ updateScore(boolean,\ boolean,\ int)
+comment2.params=
+comment2.target=void\ showScore()
+numComments=3
